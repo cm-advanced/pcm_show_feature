@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the PCM Show Feature feature.
+ */
+
+include_once 'pcm_show_feature.features.inc';
